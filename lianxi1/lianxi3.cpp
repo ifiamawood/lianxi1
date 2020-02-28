@@ -24,5 +24,7 @@ int main()
 		}
 	}
 	imshow("src", srcMat);
+	waitKey(0);
+	return 0;
 }
 
